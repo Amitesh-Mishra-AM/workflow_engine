@@ -324,7 +324,7 @@ pip install fastapi uvicorn "pydantic>=2.0"
 ## 🚀 How to Run the Project
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:Amitesh-Mishra-AM/workflow_engine.git
    cd workflow_engine
    ```
 2. Install dependencies
